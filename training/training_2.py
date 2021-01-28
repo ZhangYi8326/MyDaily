@@ -7,7 +7,7 @@
 判断字符串是否是回文字符串
 """
 
-# 方法1
+# 方法一
 a = "abddba"
 b = ""
 for i in range(-1, -len(a)-1, -1):
@@ -17,7 +17,7 @@ if b == a:
 else:
     print("a不是回文")
 
-# 方法2
+# 方法二
 a = "aba"
 b = a[:: -1]
 if b == a:
