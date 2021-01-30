@@ -4,3 +4,5 @@
 * [回文字符判断](https://github.com/ZhangYi8326/MyDaily/blob/master/training/training_2.py)
 
 * [两数之和](https://github.com/ZhangYi8326/MyDaily/blob/master/training/training_3.py)
+
+* [有效的括号](https://github.com/ZhangYi8326/MyDaily/blob/master/training/training_4.py)
